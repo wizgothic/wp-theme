@@ -1,4 +1,5 @@
 <?php get_header(); ?>
+<a href="http://www.mozilla.org/" id="tabzilla">mozilla</a>
 <div class="clear"></div>
 <div class="welcome-msg">
 	<h1><?php bloginfo('description'); ?></h1>
