@@ -1,4 +1,5 @@
 		<footer>
+		<script src="//www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 			<div class="footer-wrapper">
 				<div class="moz-com-logo"><a href="https://wiki.mozilla.org/MCS"></a></div>
 				<p>© 2008 - 2013 Comunitatea Mozilla românească.<br/> Conținutul este licențiat liber sub <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0.</a><br/>Folosim <a href="http://wordpress.org">WordPress</a> cu o temă realizată de <a href="http://stratila.com" title="Eugen Stratila">Eugen Strătilă</a> <a href="http://ceata.org/" title="Fundatia Ceata">( Ceata )</a>.</p>
